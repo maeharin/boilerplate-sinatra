@@ -1,0 +1,9 @@
+/.bundle/
+/vendor/bundle/
+/public/js/vendor/
+
+/db/*
+!/db/.gitkeep
+
+/tmp/*
+!/tmp/.gitkeep

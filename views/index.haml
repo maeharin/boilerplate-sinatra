@@ -1,0 +1,7 @@
+%h1 my boilerplate-sinatra
+
+- if @tables.any?
+  - @tables.each do |table|
+    = table
+- else
+  no tables
